@@ -3,10 +3,10 @@ package main
 import (
 	"os"
 
-	"example-developer-summit/command"
-	. "example-developer-summit/config"
-	"example-developer-summit/kafka"
-	"example-developer-summit/logger"
+	"go-example-developers-summit/command"
+	. "go-example-developers-summit/config"
+	"go-example-developers-summit/kafka"
+	"go-example-developers-summit/logger"
 	"github.com/urfave/cli"
 	"time"
 )

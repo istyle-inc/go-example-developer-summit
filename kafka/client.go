@@ -1,7 +1,7 @@
 package kafka
 
 import (
-	"example-developer-summit/logger"
+	"go-example-developers-summit/logger"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 )
 

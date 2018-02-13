@@ -1,7 +1,7 @@
 package kafka
 
 import (
-	. "example-developer-summit/config"
+	. "go-example-developers-summit/config"
 	"fmt"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 )

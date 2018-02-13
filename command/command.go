@@ -2,7 +2,7 @@ package command
 
 import (
 	"bufio"
-	"example-developer-summit/kafka"
+	"go-example-developers-summit/kafka"
 	"github.com/urfave/cli"
 	"os"
 )
