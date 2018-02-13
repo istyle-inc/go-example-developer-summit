@@ -1,4 +1,4 @@
-# example / Apache Kafka golang producer for developer summit2018
+# example / Apache Kafka golang producer for developers summit2018
 
 producer_example - basic producer
 
